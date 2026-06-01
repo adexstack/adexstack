@@ -1,9 +1,5 @@
 ## 👋 Hi, I'm Seyi
 
-Senior QA / SDET Lead specialising in building **production-grade test automation, data quality frameworks, and AI/ML validation systems** across complex, enterprise platforms.
-
-I bring 16+ years of experience delivering **scalable quality engineering solutions** in financial services and data-driven environments — with a strong focus on **modern test architecture, CI/CD, and AI assurance**.
-
 Senior QA / SDET Lead | Python Test Automation | Data Quality Engineering | AI/LLM, RAG & MCP Testing | CI/CD | Financial Services
 
 Senior QA / SDET Lead with 16+ years’ experience designing production-grade test automation, data quality frameworks, and AI/LLM validation solutions across financial services and enterprise platforms. Focused on scalable test architecture, CI/CD quality gates, Databricks/data pipeline validation, RAG evaluation, MCP tool testing, and AI assurance.
