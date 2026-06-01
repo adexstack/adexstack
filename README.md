@@ -2,7 +2,7 @@
 
 Senior QA / SDET Lead | Python Test Automation | Data Quality Engineering | AI/LLM, RAG & MCP Testing | CI/CD | Financial Services
 
-Senior QA / SDET Lead with 16+ years’ experience designing production-grade test automation, data quality frameworks, and AI/LLM validation solutions across financial services and enterprise platforms. Focused on scalable test architecture, CI/CD quality gates, Databricks/data pipeline validation, RAG evaluation, MCP tool testing, and AI assurance.
+16+ years’ experience delivering scalable quality engineering solutions across financial services, data platforms, and AI-enabled systems — with strong expertise in Python, Pytest, Playwright, CI/CD, Databricks, RAG evaluation, MCP testing, and AI assurance.
 
 ---
 
